@@ -1,4 +1,4 @@
-# ai-data-analysis-high-performance-computing
+# implementasi-ai-data-analysis-high-performance-computing_by-Waridhania-As-Syifa
 
 (Waridhania As Syifa G1A023075)
 
@@ -49,8 +49,7 @@ Disertakan pula contoh berkas konfigurasi pekerjaan berbasis SLURM sebagai gamba
 2. Unduh atau *clone* repository ini:
 
    ```bash
-   git clone
-   https://github.com/waridhaniaassyifa/Studi-Kasus_G1A023075_Waridhania-As-Syifa/edit/main/README.md
+   git clone https://github.com/waridhaniaassyifa/implementasi-ai-dan-high-performance-computing_by-Waridhania-As-Syifa/tree/main
    ```
 
 3. Masuk ke folder studi kasus yang ingin dijalankan.
