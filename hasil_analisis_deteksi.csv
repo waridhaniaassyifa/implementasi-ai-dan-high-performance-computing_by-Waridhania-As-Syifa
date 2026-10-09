@@ -1,0 +1,5 @@
+Kondisi_Latar,TP,FN,FP,TN
+Relatif Bersih,90,10,5,95
+Pasir Kering,78,22,12,88
+Pasir Basah,72,28,15,85
+Sampah Organik,65,35,20,80
